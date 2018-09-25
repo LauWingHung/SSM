@@ -1,7 +1,7 @@
 package com.lau1yach.entity;
 
 /**
- * 包装的pojo传递
+ * 包装的entity传递
  * @author Steven
  *
  */
